@@ -1,0 +1,6 @@
+Asus 256 3 5500
+Samsung 64 4 3100
+Asis 16 1 400
+Apple 64 5 20000
+Huawei 128 5 10000
+Realme 8 2 200

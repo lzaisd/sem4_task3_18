@@ -1,0 +1,3 @@
+Apple 64 1 20000
+Huawei 128 1 10000
+Realme 8 1 200
